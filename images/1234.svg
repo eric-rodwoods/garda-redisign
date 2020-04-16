@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 31 39" width="31" height="39">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M0 0L31 0L31 39L0 39Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+		.txt1 { font-size: 8px;fill: #ffffff;font-family: "Arial";font-weight: bold } 
+	</style>
+	<g id="Page 1" clip-path="url(#cp1)">
+		<path id="Path 1" fill-rule="evenodd" class="shp0" d="M24.38 17.53C24.38 24.85 21.15 29.33 15.93 29.33C10.55 29.33 7.31 24.96 7.31 17.53C7.31 12.03 9.3 5.63 15.87 5.63C22.51 5.63 24.38 12.03 24.38 17.53ZM4.37 29.1L0 29.1L0 6.03L4.37 6.03L4.37 29.1ZM11.96 17.76C11.96 23.03 13.21 25.53 15.87 25.53C18.48 25.53 19.73 22.92 19.73 17.53C19.73 11.98 18.54 9.48 15.82 9.48C11.96 9.48 11.96 14.98 11.96 17.76ZM26.14 9.31C25.12 6.93 23.47 5.06 20.75 4.5C23.47 3.87 25.12 2 26.14 -0.32C27.1 2 28.8 3.87 31.47 4.5C28.8 5.06 27.1 6.93 26.14 9.31Z" />
+		<text id="ЛЕТ  " style="transform: matrix(1.001,0,0,0.999,2.184,36.076)" >
+			<tspan x="0" y="0" class="txt1">ЛЕТ </tspan>
+		</text>
+	</g>
+</svg>
